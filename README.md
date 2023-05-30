@@ -60,10 +60,10 @@ REG NO:
 ## OUTPUT :
 
 ### clientoutput :
-![3aco](https://github.com/Reebak04/EX-4/assets/118364993/88bcd8c3-ce10-4975-ab3a-aad4619b447f)
+![co](https://github.com/Reebak04/EX-4/assets/118364993/a5c9702f-fea0-4fe2-801e-3465ede9b68f)
 
 ### serveroutput :
-![3aso](https://github.com/Reebak04/EX-4/assets/118364993/dcccd0c8-7431-4985-a58f-7a9ea9c0682c)
+![so](https://github.com/Reebak04/EX-4/assets/118364993/aed7de1c-3a41-40a3-8b1a-149cb5e3ae08)
 
 ## RESULT :
 Thus, the python program for simulating ARP protocols using TCP was successfully executed.
